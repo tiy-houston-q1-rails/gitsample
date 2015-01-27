@@ -1,6 +1,6 @@
-Yo, this is line 1
-This is line 2
-This is line 3
+Yo, this is line 1  
+This is line 2  
+This is line 3  
 
 LICENSE
 -------
